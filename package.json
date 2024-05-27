@@ -10,15 +10,18 @@
   },
   "dependencies": {
     "@sanity/image-url": "^1.0.2",
+    "@sanity/preview-url-secret": "^1.6.14",
     "@sanity/vision": "^3.43.0",
     "next": "14.2.3",
     "next-sanity": "^9.3.0",
     "react": "^18",
     "react-dom": "^18",
+    "rxjs": "^7.8.1",
     "sanity": "^3.43.0",
     "styled-components": "^6.1.11"
   },
   "devDependencies": {
+    "@tailwindcss/typography": "^0.5.13",
     "@types/node": "^20",
     "@types/react": "^18",
     "@types/react-dom": "^18",
